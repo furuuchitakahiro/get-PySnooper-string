@@ -3,6 +3,9 @@
 - python: 3.7.2
 - PySnooper: 0.0.39
 
+# 記事
+
+[PySnooper の文字列を取得](https://qiita.com/furuuchin/items/63398a10006787b99ebf)
 
 # やってみる
 
